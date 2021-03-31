@@ -3,6 +3,10 @@ Conexões:
 -Compass Mongodb: Feita conexão por String. Após, os arquivos foram salvos em .csv e importados para o PowerBI.
 -Mysql Connector: Conexão direta com o PowerBI
 
+Também, Importei da internet uma fonte de dados dos estados brasileiros via WEB Scraping, para a criação da tabela. 
+
+Fonte: https://www.sogeografia.com.br/Conteudos/Estados/
+
 Link Projeto COVID-19 + Multas:
 
 https://app.powerbi.com/view?r=eyJrIjoiODllZjQ4ZGItNTNhNC00MTE0LTg3MjAtMGIzZWEwZDZkNGYyIiwidCI6ImYxMTgzYTgxLWFhMDctNGZjOS04ZGIxLTBiOWM1ZDYxMmQ3OCJ9&pageName=ReportSectionb939ec2d15e9594706ea
